@@ -10,4 +10,6 @@ redirect_from:
 
 This is skyrabbit's home on the web!
 
+[@iamskyrabbit](https://iamskyrabbit.github.io)
+
 Lorem ipsum
